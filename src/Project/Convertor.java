@@ -1,7 +1,7 @@
 package Project;
 
 
-public class CurrencyConverter {
+public class Convertor {
     public static void main(String[] args) {
         // Predefined amount in Rupees
         double rupees = 1000; // Example: You can change this value as needed
