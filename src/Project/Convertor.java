@@ -1,6 +1,5 @@
 package Project;
 
-package Project;
 
 public class CurrencyConverter {
     public static void main(String[] args) {
